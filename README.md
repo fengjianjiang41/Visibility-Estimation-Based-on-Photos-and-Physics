@@ -1,5 +1,6 @@
 # README
-CVDL期末项目：视觉与物理信息融合的能见度估计方案
+CVDL期末项目：视觉与物理信息融合的能见度估计方案<br>
+CVDL Final Project: Visibility Estimation Scheme Combining Visual and Physical Information
 
 ## 数据
 训练所需要的未被掩码、重命名的数据在链接：https://pan.baidu.com/s/1oTdg5k_Wp2DSDr_5bsj69g?pwd=zgi9 （百度网盘，提取码：zgi9，无限期）
